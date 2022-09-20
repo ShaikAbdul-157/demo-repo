@@ -2,5 +2,6 @@ public class Demo{
 public static void main(String [] args)
 {
 System.out.println("Well com to git-hub");
+System.out.println("new developer is add"):
 }
 }
